@@ -13,7 +13,7 @@
 + SLEEPING
 
   + [国外线路出口测速工具]()
-  + [豆瓣读书小助手]()
+  + [豆瓣读书小助手](https://developers.douban.com/wiki/?title=book_v2#get_book_search)
 
 
 ### 呜谢
